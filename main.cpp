@@ -9,6 +9,7 @@ int main(){
 
     cout << "greetings\n";
     cout << "Hello world!\n";
+    say("Hi");
 
     return 0;
 }
